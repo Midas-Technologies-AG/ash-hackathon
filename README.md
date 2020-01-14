@@ -23,7 +23,9 @@ Make sure to check out the README files for documentation.
 
 Also check out our Giveth module if you want to be creative in the field of impact investing: [Giveth Module](https://github.com/Midas-Technologies-AG/protocol/tree/kovan-donateOnE) 
 
-To submit your contribution, just open a pull request in this repo until 3/15/20, 11:59 pm.
+---
 
-You can reach us via hack@ash.finance		
+**To submit your contribution, just open a pull request in this repo until 3/15/20, 11:59 pm.**
+
+You can contact us via hack@ash.finance		
 
