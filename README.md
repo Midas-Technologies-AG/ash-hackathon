@@ -7,6 +7,8 @@ We are looking for creative integrations in the fields of:
 - Gamification
 - Impact Investing
 
+Your submissions should integrate your ideas into the open Ash interface. Find creative solutions to either code up new smart contract modules for Melon or work with features of other DeFi protocols and integrate them into the open interface. 
+
 When: submission is open until 3/15/20 
 Prizes: 1,500 MLN 
 
@@ -20,6 +22,8 @@ Prizes: 1,500 MLN
 Make sure to check out the README files for documentation. 
 
 Also check out our Giveth module if you want to be creative in the field of impact investing: [Giveth Module](https://github.com/Midas-Technologies-AG/protocol/tree/kovan-donateOnE) 
+
+To submit your contribution, just open a pull request in this repo until 3/15/20, 11:59 pm.
 
 You can reach us via hack@ash.finance		
 
